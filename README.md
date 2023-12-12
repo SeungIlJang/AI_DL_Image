@@ -2,5 +2,7 @@
 ## How to use OpenCV
 ### Used Item
 - OPenCV
-- numpy
+- tensorflow
+- dlib
+
 
